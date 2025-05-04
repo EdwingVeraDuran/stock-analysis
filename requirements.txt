@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+yfinance
+fpdf
+openpyxl
+pytest
+black
+flake8
+pre-commit
